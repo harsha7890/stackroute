@@ -1,0 +1,32 @@
+body{
+	width:700px;
+	margin:auto;
+
+}
+.main{
+	background-color:blue;
+	margin:auto;
+	text-align: center;
+
+}
+.content{
+	background-color:red;
+	float:left;
+	width:60%;
+	min-width: 284px;
+}
+aside{
+	background-color:yellow;
+	float:left; 
+	width: 10%
+	min-width:200px;
+	margin-left: 10px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: pink;
+	text-align: left;
+	margin-left: 0px;
+}
+aside ul{
+	margin-left: 0px;
+}
