@@ -1,13 +1,12 @@
 body{
 	width:700px;
 	margin:auto;
-
 }
 .main{
 	background-color:blue;
 	margin:auto;
 	text-align: center;
-
+	overflow:hidden;
 }
 .content{
 	background-color:red;
